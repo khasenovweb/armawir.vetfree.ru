@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+User-agent: Yandex
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+Host: https://armawir.vetfree.ru/
+Sitemap: https://armawir.vetfree.ru/sitemap.xml
